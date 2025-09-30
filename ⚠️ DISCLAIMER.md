@@ -1,4 +1,4 @@
-⚠️ **Legal Disclaimer**
+# ⚠️ <u>**Legal Disclaimer**</u>
 
 This Bash-based port scanning tool has been developed exclusively for educational, research, and authorized security testing purposes. Its primary intent is to help users understand how port scanning works, improve their knowledge of network security principles, and learn Bash scripting techniques within controlled and lawful environments.
 
