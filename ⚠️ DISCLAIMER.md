@@ -13,4 +13,4 @@ By downloading, executing, modifying, or distributing this software, **YOU** ack
           3. This tool is provided “as is,” without any express or implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
 
-If you intend to use this tool for penetration testing or security assessments, obtain explicit written authorization from the system owner before initiating any scans.
+If you intend to use this tool for penetration testing or security assessments, **MAKE SURE YOU** obtain explicit written authorization from the system owner before initiating any scans.
